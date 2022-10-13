@@ -1,0 +1,30 @@
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\bin\Debug\net6.0\Dice Rolling.exe
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\bin\Debug\net6.0\Dice Rolling.deps.json
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\bin\Debug\net6.0\Dice Rolling.runtimeconfig.json
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\bin\Debug\net6.0\Dice Rolling.dll
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\bin\Debug\net6.0\Dice Rolling.pdb
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.csproj.AssemblyReference.cache
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.AssemblyInfoInputs.cache
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.AssemblyInfo.cs
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.csproj.CoreCompileInputs.cache
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.dll
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\obj\Debug\net6.0\refint\Dice Rolling.dll
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.pdb
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.genruntimeconfig.cache
+C:\Users\shanv\source\BootCamp Repo\Dice Rolling\Dice Rolling\obj\Debug\net6.0\ref\Dice Rolling.dll
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\bin\Debug\net6.0\Dice Rolling.exe
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\bin\Debug\net6.0\Dice Rolling.deps.json
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\bin\Debug\net6.0\Dice Rolling.runtimeconfig.json
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\bin\Debug\net6.0\Dice Rolling.dll
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\bin\Debug\net6.0\Dice Rolling.pdb
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.csproj.AssemblyReference.cache
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.AssemblyInfoInputs.cache
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.AssemblyInfo.cs
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.csproj.CoreCompileInputs.cache
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.dll
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\obj\Debug\net6.0\refint\Dice Rolling.dll
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.pdb
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\obj\Debug\net6.0\Dice Rolling.genruntimeconfig.cache
+C:\Users\shanv\source\BootCamp_Repo\Dice_Rolling\Dice Rolling\obj\Debug\net6.0\ref\Dice Rolling.dll
